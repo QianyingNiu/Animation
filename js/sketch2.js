@@ -27,7 +27,7 @@ function draw() {
   // put drawing code here to run in a loop
   //background(0);
 
-  image(mac, -659, -350, windowWidth, windowHeight);
+  image(mac, -720, -395, windowWidth, windowHeight);
 
   smooth()
   rotateX(frameCount * 0.02);
